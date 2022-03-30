@@ -1,0 +1,96 @@
+
+    .navbar-brand {
+      font-family: "Ubuntu";
+      font-size: 3rem;
+      font-weight: bold;
+     padding-left: 5%;
+    
+    
+    }   
+    
+    .navbar-nav{
+      max-width: 100;
+      position: relative;
+      overflow: hidden;
+       font-family: 'Open Sans', sans-serif;
+        font-weight: bold;
+        font-size: 3.5rem;
+         margin-left: auto;
+         
+    }
+h1{
+  color: white;
+}
+
+    .social-icon {
+        margin: 20px 10px;
+        height: 30%;
+        color: black;
+        position: relative;
+        top: 15px;
+        
+      }
+
+.writeup{
+  justify-content: center;
+  width: 100%;
+}
+    
+@media  (max-width: 900px) {
+  .writeup {
+    text-align: center;
+    justify-content: center;
+  }  
+}
+        
+p{
+text-align: center;
+  margin: auto;
+  color: black;
+  font-size: 1.39vw;
+  font-weight:  bolder;
+}
+
+
+
+.container-fluid{
+  padding-top: 30px;
+}
+
+
+
+.copyright{
+    position: relative;
+    top: 90px;
+    text-align: center;
+    margin: auto;
+    font-size: 1.1rem;
+}
+footer{
+  background-color: black;
+  text-align: center;
+  color: white;
+  padding: 7px;
+}
+
+.icons1{
+  color: white;
+  padding: 10PX;
+  float: right;
+  
+}
+.icons2{
+  color: white;
+  padding: 10PX;
+  float: right;
+}
+
+
+.cons{
+  
+  left: 47em;
+  display: flex;
+  flex-direction: row;
+  float: right;
+
+}
